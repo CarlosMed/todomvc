@@ -28,7 +28,7 @@ function App() {
             </li>
             <li>
               <div className="view">
-                <input type="checkbox" className="toggle" />
+                <input type="checkbox" className="toggle" checked/>
                 <label>test task</label>
                 <button className="destroy" />
               </div>
