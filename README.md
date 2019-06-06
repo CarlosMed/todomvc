@@ -1,3 +1,9 @@
+## Functionality of the application
+
+Functionality of the app can be found in the [app-specs at Todo MVC Github](https://github.com/tastejs/todomvc/blob/master/app-spec.md#functionality)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
